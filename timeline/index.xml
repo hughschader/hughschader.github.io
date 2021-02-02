@@ -10,17 +10,50 @@
         <atom:link href="https://hughschader.github.io/timeline/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Building a Website &amp; Final Project Ideas</title>
+            <title>Final Project Ideas</title>
             <link>https://hughschader.github.io/timeline/week_1/</link>
             <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
             
             <guid>https://hughschader.github.io/timeline/week_1/</guid>
-            <description>Week 1 Hugo testing! Let me do a tad bit more testing here.</description>
+            <description>Week 1  I am still not 100% certain what I would like to pursue for the final project, so I am going to list several ideas that I am considering. I hope to chat with someone on the course staff to consult on the feasibility of each idea before making a final decision.  Idea 1: Farming Robot   This was something I mentioned in the application for this class, but I think it might be beyond the realm of possibility.</description>
             <content type="html"><![CDATA[
 
 <h2 id="week-1">Week 1</h2>
 
-<p>Hugo testing! Let me do a tad bit more testing here.</p>
+<p>
+I am still not 100% certain what I would like to pursue for the final project,
+so I am going to list several ideas that I am considering. I hope to
+chat with someone on the course staff to consult on the feasibility of each idea
+before making a final decision.
+</p>
+
+<h3> Idea 1: Farming Robot </h3>
+
+<p>
+This was something I mentioned in the application for this class, but I think it
+might be beyond the realm of possibility. I am envisioning a four-wheel drive rover
+that would be capable of planting seeds, removing weeds, monitoring progress of crops,
+and harvesting the crops. I grew up on a farm, so I know a little bit about how traditional
+seed planters work. Most of them have some sort of "seed plate," which allows them to evenly
+space out the plants. Here is a photo of what I'm talking about:
+</p>
+
+<p><img src="/images/seed_plate.jpg" alt="Seed Plate" /></p>
+
+<p>
+So, I at least have an idea of how the planting aspect would work. In regard to removing weeds, the
+first hurdle would be identifying them in the first place. Either that, or the robot would have to
+remember exactly where each seed was originally placed and cultivate the rest of the surrounding area. However, I think
+it would be more ideal to use some kind of computer vision to locate and "terminate" any weeds in the garden. The monitoring aspect would also require computer vision, as it would need to identify fruit on the plants. I'm thinking maybe it would take photos of any potential fruits and send them to the user to be verified. Finally, I have no idea how I would go about harvesting the crops. It would be highly dependent on which type of plant I wanted to optimize the robot for, so I will try to think of crops that are "easier" to harvest.
+</p>
+
+<h3> Idea 2: Cookie Making Robot </h3>
+
+<p>
+My second idea is to build a machine capable of measuring out and mixing together the ingredients to make cookies. 
+</p>
+
+<h3> Idea 3:  </h3>
 ]]></content>
         </item>
         
